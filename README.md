@@ -73,7 +73,7 @@ Contributions are welcome! Feel free to:
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📞 Contact
-Project Link: [https://github.com/Mohammed-ES/galaxy-visualization](https://github.com/Mohammed-ES/galaxy-visualization)
+Project Link: [https://github.com/Mohammed-ES/galaxy-visualization]( https://mohammed-es.github.io/Galaxy-3D-Visualization/)
 
 ## 🙏 Acknowledgments
 - Three.js for their excellent 3D library
